@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://snem-sho-rsen195.github.io/doc-share/sitemap.xml
